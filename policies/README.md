@@ -33,15 +33,19 @@ All policies share the same header fields (Organisation: Allergy Nurture Care Lt
 | 21 | Health & Safety Policy | Registered Manager / Health & Safety Lead | Dec 2026 |
 | 22 | Business Continuity & Emergency Data Recovery Policy | Registered Manager | Dec 2026 |
 | 23 | Clinical Audit & Quality Improvement Policy | Registered Manager / Clinical Governance Lead | Dec 2026 |
+| 24 | Workforce Management, Training, CPD, Supervision & Competency Policy | Registered Manager / Clinical Lead | Dec 2026 |
+| 25 | Whistleblowing & Freedom to Speak Up Policy | Registered Manager / Clinical Governance Lead | Dec 2026 (or earlier if required) |
+| 26 | Social Media Policy | Registered Manager / Clinical Governance Lead | Dec 2026 (or earlier if required) |
 | 27 | Neurodiversity & Learning Challenges Policy *(collision — see note above)* | Registered Manager / Clinical Governance Lead | Dec 2026 (or earlier if required) |
 | 27 | Patient Pathway Policy *(collision — see note above)* | Registered Manager / Clinical Lead | Dec 2026 (or earlier if standards change) |
+| 28 | Significant Events Policy (Clinical & Non-Clinical) | Registered Manager / Clinical Governance Lead | Dec 2026 |
 | 29 | Interpreter & Translation Policy | Registered Manager / Clinical Lead | Dec 2026 |
 | 30 | Policy Management & Review Process Policy | Registered Manager / Clinical Lead | Dec 2026 |
 | 31 | Recruitment Policy | Registered Manager / Clinical Lead | Jan 2027 |
 | 32 | Governance Policy | Registered Manager / Data Protection Lead | Jan 2027 (or sooner if legislation changes) |
 | 35 | Fit and Proper Persons Policy | Registered Manager / Clinical Lead | Dec 2026 |
 
-**Received:** 32 of ~35 (as of 5 September 2026).
+**Received:** 36 of ~35 (as of 5 September 2026) — including the duplicate Policy 27, and the two unnumbered documents (Inclusion/Exclusion Criteria, AIS Statement). Only **33 and 34** are not yet accounted for, based on the numbering seen so far — everything else from 1–35 has arrived (with 27 doubled).
 
 ## Purpose snapshots (one line each, from the "Purpose/Policy Statement" section of each document — see the docx itself for full detail)
 
@@ -75,6 +79,10 @@ All policies share the same header fields (Organisation: Allergy Nurture Care Lt
 - **Remote Clinical Practice & Telehealth Safety (10):** safe, secure, effective remote healthcare complying with CQC remote care standards.
 - **School, Nursery & Multi-Agency Collaboration (20):** safe partnership working with schools, nurseries and childcare settings; consistent allergy care across environments.
 - **Recruitment (31):** safe, supportive, fair and lawful recruitment practices to protect children, families and staff, including safe recruitment processes for any future hires.
+- **Workforce Management, Training, CPD, Supervision & Competency (24):** ensures staff are competent, trained and safely deployed, working within scope of practice and professional standards.
+- **Whistleblowing & Freedom to Speak Up (25):** commitment to openness, transparency and accountability; encourages individuals to speak up.
+- **Social Media (26):** clear standards for safe, professional and appropriate use of social media; protects patients, the public and the service's reputation.
+- **Significant Events (28):** how the service identifies, reports, investigates, reviews and learns from significant clinical and non-clinical events, including near misses.
 
 ## Notes
 
