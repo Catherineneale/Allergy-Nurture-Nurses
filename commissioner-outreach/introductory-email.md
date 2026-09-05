@@ -2,7 +2,7 @@ Subject: Introducing Allergy Nurture Nurses — nurse-led allergy & asthma suppo
 
 Dear [Name],
 
-I hope you're well. I wanted to introduce Allergy Nurture Nurses, a CQC-registered, nurse-led remote allergy and asthma advisory service for children and families across the UK.
+I hope you're well. I wanted to introduce Allergy Nurture Nurses, a CQC-registered, nurse-led national allergy advisory service for children and families, delivered remotely with occasional Essex-based in-person consultations where needed.
 
 Led by me, Catherine Neale (Registered Children's Nurse and Clinical Nurse Specialist, 25+ years' nursing experience including 7 years in specialist paediatric allergy), the service supports families with Non-IgE food allergy and related conditions — eczema, allergic rhinitis and allergy-related respiratory/asthma concerns.
 
