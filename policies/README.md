@@ -1,10 +1,10 @@
 # Policy index
 
-Allergy Nurture Care Ltd's policies are numbered (Policy 1 to ~35). Catherine is sending them in batches; this index tracks what's been received so far, sorted by policy number. Update this table as more arrive — don't guess at titles for numbers not yet received.
+Allergy Nurture Care Ltd's policies are numbered, though not necessarily sequentially. Catherine estimates roughly 33 policies in total (not a firm count), and believes all have now been sent, but is double-checking. This index tracks what's been received so far, sorted by policy number. Update this table as more arrive, don't guess at titles for numbers not yet received, and don't assume 33 and 34 are missing documents rather than simply skipped numbers.
 
 All policies share the same header fields (Organisation: Allergy Nurture Care Ltd; Service Model: national remote/virtual with occasional Essex-based in-person consultations), so those aren't repeated per-row.
 
-**Numbering collision found:** both "Neurodiversity & Learning Challenges Policy" and "Patient Pathway Policy" are labelled **Policy 27** in their own source documents. Flagged here rather than resolved — worth renumbering one on Catherine's end.
+**Numbering note:** both "Neurodiversity & Learning Challenges Policy" and "Patient Pathway Policy" are labelled **Policy 27** in their own source documents. Confirmed by Catherine as a mistyped number rather than a real conflict — both kept as-is, no action needed.
 
 | # | Title | Owner | Next review |
 |---|---|---|---|
@@ -45,7 +45,7 @@ All policies share the same header fields (Organisation: Allergy Nurture Care Lt
 | 32 | Governance Policy | Registered Manager / Data Protection Lead | Jan 2027 (or sooner if legislation changes) |
 | 35 | Fit and Proper Persons Policy | Registered Manager / Clinical Lead | Dec 2026 |
 
-**Received:** 36 of ~35 (as of 5 September 2026) — including the duplicate Policy 27, and the two unnumbered documents (Inclusion/Exclusion Criteria, AIS Statement). Only **33 and 34** are not yet accounted for, based on the numbering seen so far — everything else from 1–35 has arrived (with 27 doubled).
+**Received:** 34 distinct policy documents (as of 5 September 2026) — numbers 1–32 and 35, with 27 sent twice under two different titles (a mistyped number on Catherine's end, not a real conflict), plus the two unnumbered documents (Inclusion/Exclusion Criteria, AIS Statement). Numbers 33 and 34 haven't appeared, but the set isn't necessarily sequential and Catherine believes everything has now been sent — she's double-checking rather than treating 33/34 as outstanding.
 
 ## Purpose snapshots (one line each, from the "Purpose/Policy Statement" section of each document — see the docx itself for full detail)
 
