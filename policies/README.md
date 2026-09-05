@@ -4,7 +4,7 @@ Allergy Nurture Care Ltd's policies are numbered, though not necessarily sequent
 
 All policies share the same header fields (Organisation: Allergy Nurture Care Ltd; Service Model: national remote/virtual with occasional Essex-based in-person consultations), so those aren't repeated per-row.
 
-**Numbering note:** both "Neurodiversity & Learning Challenges Policy" and "Patient Pathway Policy" are labelled **Policy 27** in their own source documents. Confirmed by Catherine as a mistyped number rather than a real conflict — both kept as-is, no action needed.
+**Numbering note:** both "Neurodiversity & Learning Challenges Policy" and "Patient Pathway Policy" are labelled **Policy 27** in their own source documents. Confirmed by Catherine as a mistyped number. Since the full set is 34 documents and only numbers 33/34 never appeared, one of these two was very likely meant to be **33 or 34**, not 27 — worth Catherine confirming which, and correcting the number in that document, when convenient. Not urgent; both documents are safely filed either way.
 
 | # | Title | Owner | Next review |
 |---|---|---|---|
@@ -45,7 +45,7 @@ All policies share the same header fields (Organisation: Allergy Nurture Care Lt
 | 32 | Governance Policy | Registered Manager / Data Protection Lead | Jan 2027 (or sooner if legislation changes) |
 | 35 | Fit and Proper Persons Policy | Registered Manager / Clinical Lead | Dec 2026 |
 
-**Received:** 34 distinct policy documents (as of 5 September 2026) — numbers 1–32 and 35, with 27 sent twice under two different titles (a mistyped number on Catherine's end, not a real conflict), plus the two unnumbered documents (Inclusion/Exclusion Criteria, AIS Statement). Numbers 33 and 34 haven't appeared, but the set isn't necessarily sequential and Catherine believes everything has now been sent — she's double-checking rather than treating 33/34 as outstanding.
+**Received:** all 34 policy documents (confirmed complete by Catherine, 5 September 2026), plus the two unnumbered reference documents (Inclusion/Exclusion Criteria, AIS Statement) — 36 files in total. Numbers used are 1–32, 35, and 27 twice; see the numbering note above for the likely explanation (one "27" should probably read 33 or 34).
 
 ## Purpose snapshots (one line each, from the "Purpose/Policy Statement" section of each document — see the docx itself for full detail)
 
