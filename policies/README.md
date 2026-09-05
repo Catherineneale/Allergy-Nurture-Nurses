@@ -10,6 +10,8 @@ All policies share the same header fields (Organisation: Allergy Nurture Care Lt
 |---|---|---|---|
 | — | Allergy Nurture Care Ltd Inclusion and Exclusion Criteria | Registered Manager / Clinical Lead | May 2027 |
 | — | Accessible Information Standard (AIS) Statement | (not numbered in doc) | — |
+| 1 | Safeguarding Children & Young People Policy | Registered Manager / Designated Safeguarding Lead (DSL) | Nov 2026 (or sooner following guidance/legislative change) |
+| 2 | Safeguarding Adults at Risk Policy & Procedure | Registered Manager / Designated Safeguarding Lead (DSL) | Nov 2026 (or sooner following guidance/legislative change) |
 | 3 | Consent Policy & Procedures (incorporating Mental Capacity & Decision-Making) | Registered Manager / Designated Safeguarding Lead (DSL) | Nov 2026 (or earlier if legislation changes) |
 | 4 | Prevent & Counter-Terrorism Policy | Registered Manager / Designated Safeguarding Lead (DSL) | Nov 2026 |
 | 5 | Duty of Candour & Incident Reporting Policy | Registered Manager / Clinical Governance Lead | Nov 2026 (or sooner if required) |
@@ -17,6 +19,7 @@ All policies share the same header fields (Organisation: Allergy Nurture Care Lt
 | 7 | Information Governance & Data Protection Policy | Registered Manager / Data Protection Lead | Nov 2026 (or sooner if legislation changes) |
 | 8 | Cyber Security & Digital Safety Policy | Registered Manager / Data Protection Lead / Caldicott Guardian | Nov 2026 |
 | 9 | Lone Worker & Personal Safety Policy | Registered Manager | Nov 2026 |
+| 10 | Remote Clinical Practice & Telehealth Safety Policy | Registered Manager / Clinical Lead | Nov 2026 (or earlier if standards change) |
 | 11 | Professional Conduct & Boundaries Policy | Registered Manager / Clinical Governance Lead | Nov 2026 (or sooner if required) |
 | 12 | Clinical Supervision, Reflective Practice & CPD Policy | Registered Manager / Clinical Lead | Nov 2026 |
 | 13 | Equality, Diversity & Inclusion (EDI) Policy | Registered Manager / Clinical Lead | Nov 2026 |
@@ -26,6 +29,7 @@ All policies share the same header fields (Organisation: Allergy Nurture Care Lt
 | 17 | Clinical Documentation & Record Keeping Policy | Registered Manager / Clinical Governance Lead | Dec 2026 |
 | 18 | Clinical Risk Assessment & Escalation Policy | Registered Manager / Clinical Governance Lead | Dec 2026 |
 | 19 | Feeding & Food Introduction Guidance Policy (Allergic Patients/Children & Infants at Allergy Risk) | Registered Manager / Clinical Lead (Paediatric Allergy) | Dec 2026 |
+| 20 | School, Nursery & Multi-Agency Collaboration Policy | Registered Manager / Clinical Lead | Dec 2026 |
 | 21 | Health & Safety Policy | Registered Manager / Health & Safety Lead | Dec 2026 |
 | 22 | Business Continuity & Emergency Data Recovery Policy | Registered Manager | Dec 2026 |
 | 23 | Clinical Audit & Quality Improvement Policy | Registered Manager / Clinical Governance Lead | Dec 2026 |
@@ -33,10 +37,11 @@ All policies share the same header fields (Organisation: Allergy Nurture Care Lt
 | 27 | Patient Pathway Policy *(collision — see note above)* | Registered Manager / Clinical Lead | Dec 2026 (or earlier if standards change) |
 | 29 | Interpreter & Translation Policy | Registered Manager / Clinical Lead | Dec 2026 |
 | 30 | Policy Management & Review Process Policy | Registered Manager / Clinical Lead | Dec 2026 |
+| 31 | Recruitment Policy | Registered Manager / Clinical Lead | Jan 2027 |
 | 32 | Governance Policy | Registered Manager / Data Protection Lead | Jan 2027 (or sooner if legislation changes) |
 | 35 | Fit and Proper Persons Policy | Registered Manager / Clinical Lead | Dec 2026 |
 
-**Received:** 27 of ~35 (as of 5 September 2026).
+**Received:** 32 of ~35 (as of 5 September 2026).
 
 ## Purpose snapshots (one line each, from the "Purpose/Policy Statement" section of each document — see the docx itself for full detail)
 
@@ -65,6 +70,11 @@ All policies share the same header fields (Organisation: Allergy Nurture Care Lt
 - **Policy Management & Review Process (30):** sets out how policies are developed, approved, implemented, reviewed and updated to stay current, effective and compliant.
 - **Prevent & Counter-Terrorism (4):** protects children, families and the public from risks of radicalisation and extremism; recognises radicalisation as a safeguarding issue.
 - **Professional Conduct & Boundaries (11):** maintains the highest standards of professional conduct, integrity and boundaries to protect children, families and staff.
+- **Safeguarding Children & Young People (1):** legal and moral duty to always safeguard children and young people; puts children first.
+- **Safeguarding Adults at Risk (2):** statutory and ethical duty to safeguard adults at risk of abuse, neglect or harm; promotes dignity, rights and autonomy.
+- **Remote Clinical Practice & Telehealth Safety (10):** safe, secure, effective remote healthcare complying with CQC remote care standards.
+- **School, Nursery & Multi-Agency Collaboration (20):** safe partnership working with schools, nurseries and childcare settings; consistent allergy care across environments.
+- **Recruitment (31):** safe, supportive, fair and lawful recruitment practices to protect children, families and staff, including safe recruitment processes for any future hires.
 
 ## Notes
 
