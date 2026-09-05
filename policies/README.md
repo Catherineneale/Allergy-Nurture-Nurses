@@ -11,20 +11,25 @@ All policies share the same header fields (Organisation: Allergy Nurture Care Lt
 | 3 | Consent Policy & Procedures (incorporating Mental Capacity & Decision-Making) | Registered Manager / Designated Safeguarding Lead (DSL) | Nov 2026 (or earlier if legislation changes) |
 | 5 | Duty of Candour & Incident Reporting Policy | Registered Manager / Clinical Governance Lead | Nov 2026 (or sooner if required) |
 | 6 | Complaints Policy | Registered Manager / Clinical Governance Lead | Nov 2026 (or earlier if required) |
+| 7 | Information Governance & Data Protection Policy | Registered Manager / Data Protection Lead | Nov 2026 (or sooner if legislation changes) |
 | 8 | Cyber Security & Digital Safety Policy | Registered Manager / Data Protection Lead / Caldicott Guardian | Nov 2026 |
+| 9 | Lone Worker & Personal Safety Policy | Registered Manager | Nov 2026 |
 | 12 | Clinical Supervision, Reflective Practice & CPD Policy | Registered Manager / Clinical Lead | Nov 2026 |
 | 13 | Equality, Diversity & Inclusion (EDI) Policy | Registered Manager / Clinical Lead | Nov 2026 |
 | 14 | Child, Parent & Family Communication & Accessibility Policy | Registered Manager / Clinical Lead | Nov 2026 |
+| 15 | Infection Prevention & Sessional Clinic Safety Policy | Registered Manager / Clinical Director | Dec 2026 |
+| 16 | Medicines Management & Medical Emergency Policy | Registered Manager / Clinical Lead | Dec 2026 |
 | 17 | Clinical Documentation & Record Keeping Policy | Registered Manager / Clinical Governance Lead | Dec 2026 |
 | 18 | Clinical Risk Assessment & Escalation Policy | Registered Manager / Clinical Governance Lead | Dec 2026 |
 | 19 | Feeding & Food Introduction Guidance Policy (Allergic Patients/Children & Infants at Allergy Risk) | Registered Manager / Clinical Lead (Paediatric Allergy) | Dec 2026 |
 | 21 | Health & Safety Policy | Registered Manager / Health & Safety Lead | Dec 2026 |
 | 22 | Business Continuity & Emergency Data Recovery Policy | Registered Manager | Dec 2026 |
 | 23 | Clinical Audit & Quality Improvement Policy | Registered Manager / Clinical Governance Lead | Dec 2026 |
+| 29 | Interpreter & Translation Policy | Registered Manager / Clinical Lead | Dec 2026 |
 | 32 | Governance Policy | Registered Manager / Data Protection Lead | Jan 2027 (or sooner if legislation changes) |
 | 35 | Fit and Proper Persons Policy | Registered Manager / Clinical Lead | Dec 2026 |
 
-**Received:** 17 of ~35 (as of 5 September 2026).
+**Received:** 22 of ~35 (as of 5 September 2026).
 
 ## Purpose snapshots (one line each, from the "Purpose/Policy Statement" section of each document — see the docx itself for full detail)
 
@@ -43,6 +48,11 @@ All policies share the same header fields (Organisation: Allergy Nurture Care Lt
 - **Health & Safety (21):** safety, wellbeing and protection of children/families, staff/associates, and visitors in clinic settings.
 - **Governance (32):** effective governance arrangements supporting safe, high-quality, person-centred care and regulatory/legal/professional compliance.
 - **Fit and Proper Persons (35):** ensures directors and individuals in positions of responsibility are fit and proper, per Regulation 5 of the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014.
+- **Information Governance & Data Protection (7):** privacy, dignity and rights of patients/families/staff; safe handling, storage, processing and sharing of data.
+- **Lone Worker & Personal Safety (9):** protects the safety, wellbeing and professional security of staff working independently, including remote video/telephone consultations.
+- **Infection Prevention & Sessional Clinic Safety (15):** safe clinical environment for patients and staff through effective infection prevention and control, covering the occasional in-person Essex sessions.
+- **Medicines Management & Medical Emergency (16):** safe, lawful and effective medicines practice, including safe prescribing advice.
+- **Interpreter & Translation (29):** ensures patients/families with limited English proficiency can access safe, effective, equitable care through appropriate interpreter use and translated information.
 
 ## Notes
 
