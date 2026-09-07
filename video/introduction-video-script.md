@@ -1,6 +1,6 @@
 # Allergy Nurture Nurses — Introduction Video Script
 
-**Estimated length:** ~60–65 seconds at a natural, unhurried narration pace (roughly 145 words). Trim the bracketed [optional] line if you need to land strictly under 60 seconds.
+**Estimated length:** ~60–65 seconds at a natural, unhurried narration pace (roughly 145 words). Trim the bracketed [optional] line if you need to land strictly under 60 seconds. See `introduction-video-script-90s.md` for a fuller 90-second version.
 
 ---
 
