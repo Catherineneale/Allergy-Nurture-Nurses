@@ -4,3 +4,4 @@ When drafting or editing any text for Allergy Nurture Nurses (emails, website co
 
 - Do not use em dashes (—). Use a comma, full stop, or restructure the sentence instead.
 - Proofread punctuation carefully before finishing, including capitalising the first letter of every sentence.
+- Capitalise "Eczema" and "Asthma" throughout, as these are names of conditions (house style, not standard English capitalisation).
