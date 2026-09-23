@@ -258,6 +258,8 @@ Link Book a Consultation and Contact in the final CTA.
 Sources referenced (for Catherine's records, not for publication)
 
 - NHS: solids should not be started before 17 weeks (4 months); around 6 months recommended for most babies.
-- NICE NG247 (Maternal and child nutrition): allergenic foods should be included from the start of weaning at around 6 months, not delayed.
-- BSACI / BDA "Early feeding guidance for HCPs" (Paediatric Allergy Group / Food Allergy Specialist Group): higher-risk infants (moderate-to-severe eczema, especially onset in first 3 months of life, and/or egg allergy) may benefit from earlier introduction of egg and peanut from around 4 months, if developmentally ready.
+- NICE guideline NG247, "Maternal and child nutrition: nutrition and weight management in pregnancy, and nutrition in children up to 5 years", published 15 January 2025 (replaces the earlier PH11). Covers introduction of solids from 6 months for the general population.
+- BSACI / BDA "Early feeding guidance for HCPs: Preventing food allergy in higher risk infants" (BSACI Paediatric Allergy Group and BDA Food Allergy Specialist Group, developed May 2018, still current on BSACI's site at last check). Confirms infants with moderate-to-severe eczema, or eczema starting in the first 3 months of life, are at greatest risk of reacting to egg/peanut, and may benefit from earlier introduction from around 4 months once developmentally ready.
 - Allergy UK: echoes BSACI/BDA higher-risk guidance; notes it is preferable for eczema to be reasonably controlled first, and recommends specialist/dietitian support for this pathway.
+
+Verification note: checked 23 September 2026 via web search and cross-referenced against BSACI's own resource pages, third-party clinical summaries and the original 2018 journal editorial announcing the guidance, since this environment could not fetch the BSACI/BDA PDF directly. Consistent across every independent source found; worth a final check against primary literature before publishing given the direct PDF couldn't be read.
