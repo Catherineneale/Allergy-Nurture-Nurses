@@ -242,6 +242,14 @@ Book a remote consultation or send us an enquiry today.
 
 Every child deserves the best start in life.
 
+Further reading
+
+This article draws on current guidance from the following organisations, where you can read the full guidance for yourself:
+
+* BSACI: Early introduction of food allergens (https://www.bsaci.org/resources/allergy-management/food-allergy/allergy-prevention/early-introduction-of-food-allergens/)
+* British Dietetic Association: Complementary feeding (weaning) (https://www.bda.uk.com/resource/complementary-feeding-weaning.html)
+* Allergy UK: Weaning and Introducing your Baby onto Solids (https://www.allergyuk.org/resources/weaning-and-introducing-your-baby-onto-solids-factsheet/)
+
 ---
 
 Internal links to add
